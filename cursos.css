@@ -64,7 +64,7 @@ a {
   }
 
 .container2 {
-      background-image: url('img/Vamos\ Aprender.png');
+      background-image: url("Vamos\ Aprender.png");
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
