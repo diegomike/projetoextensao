@@ -49,6 +49,7 @@ footer p {
 
 .container {
     padding: 0px 25px;
+
 }
 
 nav a:hover {
@@ -80,3 +81,17 @@ a {
   img {
     width: 295px;
   }
+
+  .icon{
+    width: auto;
+    height:30px;
+
+  }
+
+  .centralizar{
+    text-align: center;
+    
+  }
+
+ 
+
